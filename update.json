@@ -1,0 +1,13 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "ما هو الجديد؟",
+  "Description": "
+- تغير تصميم UI.
+- تم حل مشكلة خطأ في التحميللات.
+- تم اضافة ثبات السلاح , ازالة العشب و مميزات أخري.",
+  "MainTextButton": "تحميل التحديث",
+  "Cancelable": "false",
+  "CancelButtonText": "ليس الان",
+  "DownloadLink": "https://calinengine.000webhostapp.com/",
+  "Version": "0.23.0"
+}
